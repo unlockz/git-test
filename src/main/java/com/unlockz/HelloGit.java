@@ -18,5 +18,6 @@ public class HelloGit {
         System.out.println("local push test");
         System.out.println("local push test2");
         System.out.println("remote push test3");
+        System.out.println("local modify for gitee");
     }
 }
