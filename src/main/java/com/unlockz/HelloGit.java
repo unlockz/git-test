@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("master modify");
         System.out.println("hot-fix modify");
         System.out.println("push test");
+        System.out.println("remote push test");
     }
 }
