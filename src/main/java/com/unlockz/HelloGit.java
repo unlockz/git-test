@@ -15,5 +15,7 @@ public class HelloGit {
         System.out.println("push test");
         System.out.println("remote push test");
         System.out.println("remote push test2");
+      
+        System.out.println("remote push test3");
     }
 }
